@@ -6,6 +6,6 @@ document.addEventListener('DOMContentLoaded',()=>{
     btn.addEventListener('click',()=>{
         count++;
 
-        para.textContent = `You have Cliked ${count} Times`
+        para.textContent = `You Cliked ${count} Times`
     })
 })
